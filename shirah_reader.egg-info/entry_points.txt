@@ -1,3 +1,0 @@
-[console_scripts]
-shirah = shirah_reader.__main__:main
-
